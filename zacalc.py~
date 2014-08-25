@@ -274,7 +274,7 @@ class ZaCalc(object):
 		window.set_size_request(800,520) #window title
 		window.set_border_width(12) #padding
 		window.set_position(gtk.WIN_POS_CENTER) #default position
-		window.set_title("Hendra Zakat Calculator BlankOn") #window title
+		window.set_title("BlankOn Zakat Calculator") #window title
 		window.connect("delete_event", gtk.main_quit)
 		window.connect('key_press_event', self.key_press_event)
 		
