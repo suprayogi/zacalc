@@ -1,0 +1,84 @@
+zacalc (0.3.3) tambora; urgency=low
+
+  * Release tambora
+
+ -- Syai Mif <syai.unipdu@gmail.com>  Sat, 08 Mar 2014 09:24:09 +0700
+
+zacalc (0.3.2) suroboyo; urgency=low
+
+  * changes any to all.
+
+ -- Syai Mif <syai.unipdu@gmail.com>  Fri, 11 Oct 2013 19:24:46 +0700
+
+zacalc (0.3.1) suroboyo; urgency=low
+
+  * upload to suroboyo
+  * added translation en.po 
+
+ -- Aris Febrianto <ariesfebrianto@gmail.com>  Mon, 15 Apr 2013 20:07:45 +0700
+
+zacalc (0.2.7.1) rote-updates; urgency=low
+
+  * added script zacalc.sh
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Mon, 26 Nov 2012 19:43:54 +0700
+
+zacalc (0.2.7) rote; urgency=low
+
+  * Change blankon logo 
+
+ -- Muhammad abdul Majid <tuyul.det@gmail.com>  Tue, 05 Jun 2012 17:06:55 +0700
+
+zacalc (0.2.6) rote; urgency=low
+
+  * Perbaiki icon pada panel 
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Sat, 03 Mar 2012 21:34:53 +0700
+
+zacalc (0.2.5) rote; urgency=low
+
+  * Replace Icon in About 
+
+ -- azis ws <azis.astrojim@surabaya.di.blankon.in>  Fri, 03 Feb 2012 19:38:22 +0700
+
+zacalc (0.2.4) rote; urgency=low
+
+  * add icons/zacalc.png
+  * revisi applications/zacalc.desktop
+ 
+ -- azis ws <azis.astrojim@surabaya.di.blankon.in>  Fri, 02 Dec 2011 03:25:51 +0700
+
+zacalc (0.2.3) rote; urgency=low
+
+  *revision pygtk   
+  
+ -- muhammad abdul majid <tuyul.det@gmail.com>  Thu, 20 Oct 2011 00:08:03 +0700
+
+zacalc (0.2.1) rote; urgency=low
+
+  * new upstreame release
+  * debian/control add py-gtk
+  * debian/install add *.png
+  * debian/copyright add developer
+
+ -- muhammad abdul majid <tuyul.det@gmail.com>  Sat, 15 Oct 2011 21:53:06 +0700
+
+zacalc (0.1.3) rote; urgency=low
+
+  * Change zacalc.py BlankOn to Indonesia
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 15 Oct 2011 14:05:18 +0700
+
+zacalc (0.1.2) pattimura; urgency=low
+
+  * Added islamic-menus, python-tk add deppends 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 31 Jul 2011 21:01:29 +0700
+
+zacalc (0.1.1) pattimura; urgency=low
+
+  * New: Iintial release
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 29 Jul 2011 23:01:47 +0700
+
+
